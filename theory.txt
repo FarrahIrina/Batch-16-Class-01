@@ -1,0 +1,10 @@
+tag => <></> () ; <>- only opening no closing
+<P>=> paragraph 
+h1-h6 = font size 
+span => like as p tag 
+br => only opening tag 
+b => bold text => storng tag -> output same
+img = image tag
+src = source = attribute 
+height = ucchota 
+width = prostho 
